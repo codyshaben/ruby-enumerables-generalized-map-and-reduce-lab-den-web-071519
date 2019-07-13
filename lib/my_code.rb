@@ -1,1 +1,2 @@
-def map(array)
+def map(array_of_numbers)
+  
